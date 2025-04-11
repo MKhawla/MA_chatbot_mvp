@@ -126,3 +126,15 @@ The web interface is built with:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## Example
+
+![page1](https://github.com/user-attachments/assets/8b669986-208f-4a27-b221-4550ad8fdcca)
+
+
+![3](https://github.com/user-attachments/assets/713f0dc5-e26c-4b2d-b26a-2b00563e8023)
+
+
+![2](https://github.com/user-attachments/assets/7038d086-f9f2-4c68-8e10-855ccd46cd71)
+
